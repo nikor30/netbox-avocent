@@ -1,4 +1,4 @@
-# Nagios Status in NetBox
+# Open in Terminal window from Avocent
 
 Plugin to show Nagios host and service status in NetBox on the device and VM page.
 
