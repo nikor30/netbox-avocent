@@ -1,14 +1,14 @@
 from setuptools import find_packages, setup
 
-from netbox_nagios.version import VERSION
+from netbox-avocent.version import VERSION
 
 setup(
-    name="netbox-nagios",
+    name="netbox-avocent",
     version=VERSION,
-    author="Hudson River Trading LLC",
-    author_email="opensource@hudson-trading.com",
-    description="Netbox Plugin to show Nagios device state in Netbox.",
-    url="https://github.com/hudson-trading/netbox_nagios/",
+    author="Nikolas Reitz",
+    author_email="nr@gmx.net",
+    description="Avocent Plugin",
+    url="https://github.com/nikor30/netbox-avocent/",
     license="New BSD",
     install_requires=[],
     packages=find_packages(),
